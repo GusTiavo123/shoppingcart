@@ -1,6 +1,6 @@
 package com.gustavo.shoppingcart.service.product;
 
-import com.gustavo.shoppingcart.exceptions.ProductNotFoundException;
+import com.gustavo.shoppingcart.exceptions.product.ProductNotFoundException;
 import com.gustavo.shoppingcart.model.Category;
 import com.gustavo.shoppingcart.model.Product;
 import com.gustavo.shoppingcart.repository.CategoryRepository;
